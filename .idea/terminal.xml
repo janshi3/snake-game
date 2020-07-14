@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="Path" value="E:\MyProjects\GitHub\snake-game\snake-game\venv\Scripts" />
+    </envs>
+    <option name="passParentEnvs" value="false" />
+  </component>
+</project>
